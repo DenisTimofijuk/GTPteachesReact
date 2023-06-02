@@ -25,7 +25,7 @@ function MembersDashboard() {
 
   return (
     <div>
-      <h2>Dalyviai</h2>
+      <h2>Members</h2>
       <div className={style["content-wrapper"]}>
         {members.map((member) => (
           <MemberCard

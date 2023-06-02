@@ -9,11 +9,11 @@ export function MemberModal({ data }: { data: MemberView }) {
         <div className={style.header}>
           <div className={style.headerName}>{data.name}</div>
           <div className={style.comments}>
-            Priklauso komandai:{" "}
+            Member of the Team:{" "}
             <span className={style.bold}>{data.teamName}</span>
           </div>
           <div className={style.comments}>
-            Viso atliktų stebėjimų:{" "}
+            Total Observations:{" "}
             <span className={style.bold}>{data.observations.length}</span>
           </div>
         </div>
@@ -23,9 +23,9 @@ export function MemberModal({ data }: { data: MemberView }) {
           <table>
             <thead>
               <tr>
-                <th>Data</th>
-                <th>Pavadinimas</th>
-                <th>Komentaras</th>
+                <th>Date</th>
+                <th>Name</th>
+                <th>Comment</th>
               </tr>
             </thead>
             <tbody>

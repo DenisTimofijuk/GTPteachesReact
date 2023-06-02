@@ -11,7 +11,7 @@ export async function loadJSON<T>(fileName: string) {
 }
 
 export async function loadTeamsView() {
-  const result: TeamsView = [];
+  const result: TeamsView[] = [];
   const tbl_user_content = await loadJSON<TBL_MEMBERS>("tbl_members");
   const tbl_teams_content = await loadJSON<TBL_TEAMS>("tbl_teams");
 

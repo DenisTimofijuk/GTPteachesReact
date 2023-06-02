@@ -8,7 +8,7 @@ export function TeamModal({ data }: { data: TeamsView }) {
         <TeamAvatar></TeamAvatar>
         <div className={style.header}>
           <div className={style.headerName}>{data.team_name}</div>
-          <div className={style.comments}>Viso narių: {data.members.length}</div>
+          <div className={style.comments}>Total members: {data.members.length}</div>
         </div>
       </div>
       <div className={style.row}>
@@ -17,7 +17,7 @@ export function TeamModal({ data }: { data: TeamsView }) {
             <thead>
               <tr>
                 <th>Nr.</th>
-                <th>Komandos Narys</th>
+                <th>Team Member</th>
               </tr>
             </thead>
             <tbody>

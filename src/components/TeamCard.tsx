@@ -17,7 +17,7 @@ function TeamCard({
       </div>
       <div className={style["team-details"]}>
         <div className={style["team-name"]}>{name}</div>
-        <div className={style["team-members"]}>Viso narių: {membersCount}</div>
+        <div className={style["team-members"]}>Total members: {membersCount}</div>
       </div>
     </div>
   );

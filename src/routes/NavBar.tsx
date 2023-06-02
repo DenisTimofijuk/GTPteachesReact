@@ -15,13 +15,13 @@ function NavBar() {
               <Link to="./">Home</Link>
             </li>
             <li>
-              <Link to="./members">Dalyviai</Link>
+              <Link to="./members">Members</Link>
             </li>
             <li>
-              <Link to="./teams">Komandos</Link>
+              <Link to="./teams">Teams</Link>
             </li>
             <li>
-              <Link to="./report">Resultatai</Link>
+              <Link to="./report">Reports</Link>
             </li>
           </ul>
         </div>

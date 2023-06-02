@@ -25,7 +25,7 @@ function TeamsDashboard() {
   
   return (
     <div>
-      <h2>Komandos</h2>
+      <h2>Teams</h2>
       <div className={style["content-wrapper"]}>{
         teams.map((team)=>(<TeamCard
           handleCardClick={()=>openModal(team)}
