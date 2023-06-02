@@ -1,0 +1,40 @@
+.team-card {
+  width: 500px;
+  height: 200px;
+  margin: 1rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+
+  background: rgb(224, 224, 224);
+  background: linear-gradient(
+    0deg,
+    rgba(219, 227, 192, 1) 0%,
+    rgba(219, 227, 192, 1) 5%,
+    rgba(255, 255, 255, 1) 98%
+  );
+}
+
+.team-card:hover {
+  cursor: pointer;
+  background: rgb(219, 227, 192);
+}
+
+.team-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-content: flex-start;
+  text-align: left;
+}
+
+.team-name{
+  font-weight: bold;
+  font-size: 28px;
+}
+
+.team-members{
+  font-size: 18px;
+  color: rgb(168, 168, 168);
+}

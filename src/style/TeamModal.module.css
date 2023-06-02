@@ -1,0 +1,48 @@
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.content {
+  height: 50vh;
+  overflow: scroll;
+  border-top: 1px solid rgb(194, 192, 192);
+  width: 100%;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.headerName{
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.comments{
+    font-size: 14px;
+    color: grey;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.content table tbody {
+    font-size: 13px;
+}
+
+.content table {
+    text-align: left;
+    width: 100%;
+}
+
+.content table td{
+    padding: 3px;
+}
+
+.wrapper{
+    min-width: 50vw;
+}

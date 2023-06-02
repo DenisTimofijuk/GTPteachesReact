@@ -1,0 +1,19 @@
+.team-avatar{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    background-image: url(../assets/images.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: 5px;
+}
+
+.team-avatar div {
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}

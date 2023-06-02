@@ -1,0 +1,51 @@
+[
+  { "name": "Kerpės - Lichemes", "id": "520f22e8-92bf-4f2c-80a8-79939d47f153" },
+  { "name": "Grybai - Fungi", "id": "21d36b02-f7ad-4c4f-9e78-14d52872eead" },
+  {
+    "name": "Drugiai - Lepidoptera",
+    "id": "245bf951-c51f-4862-9504-4608a80b9c18"
+  },
+  { "name": "Medis - Arbor", "id": "c02009c7-0921-47b8-92cd-ce072f757413" },
+  { "name": "Žirnis - Pisum", "id": "e76d6ee6-7f48-424b-b6fc-45ac94ac3f3d" },
+  { "name": "Eglė - Abies", "id": "003175bc-10d9-49c9-a49b-fafacb8f9e1a" },
+  { "name": "Varnė - Corvus", "id": "54ec1121-985d-4316-a62c-e07c8b823c3f" },
+  { "name": "Bitė - Apis", "id": "6cd0f675-da44-4f87-bfbe-c03386ae061f" },
+  {
+    "name": "Erškėtuogė - Rubus",
+    "id": "dca95ed1-89d8-43d1-8308-90a223d0d704"
+  },
+  { "name": "Skruzdė - Formica", "id": "c0023d76-4f67-4656-9fdf-47c79319b06a" },
+  { "name": "Avinė - Ovis", "id": "d26dfba2-e162-4d40-8bad-6dd41a95ba0d" },
+  { "name": "Žuvis - Piscis", "id": "f5ca10cf-4cef-48ec-8368-1a4c4d262b49" },
+  { "name": "Vilkas - Canis", "id": "e8e4d5c3-e140-419a-a27b-1ae0dd782ff1" },
+  { "name": "Lokys - Ursus", "id": "a6757cd3-d704-42b9-86cd-b3fa231d0a87" },
+  {
+    "name": "Gyvate - Serpentes",
+    "id": "f4334a9a-612c-4a63-afc3-b1f1a5459263"
+  },
+  {
+    "name": "Varnalėša - Apatura",
+    "id": "a0da4479-0430-4ff7-ad68-875b6a62604b"
+  },
+  {
+    "name": "Jūros žvaigždė - Asterias",
+    "id": "9474a0e9-1e91-454e-b2cf-aaa83d5a1b96"
+  },
+  { "name": "Gandras - Anser", "id": "c862fc70-0dfd-4e16-aa22-5f8aa4d730a6" },
+  { "name": "Paukštis - Aves", "id": "cd1102f0-6f8a-4db1-a5e6-c6743ca3849e" },
+  {
+    "name": "Skorpionas - Scorpion",
+    "id": "11eecaf0-d140-4fbe-8643-2b3f93d802fd"
+  },
+  {
+    "name": "Sniegutis - Leontopodium",
+    "id": "39b4083e-588f-432d-9516-4d768a1b358a"
+  },
+  { "name": "Tigras - Panthera", "id": "29a16843-1bdd-40a6-accf-6016e0b8a466" },
+  {
+    "name": "Vilkdalgis - Salamandra",
+    "id": "20209977-8cf8-4a76-b56a-4b391f332077"
+  },
+  { "name": "Voverė - Lepus", "id": "83110e04-40c3-44cb-9de6-ac12c5f2f836" },
+  { "name": "Ungurys - Cervus", "id": "12008df0-fdfe-4d3f-8b00-6ba5f15feb27" }
+]

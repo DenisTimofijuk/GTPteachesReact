@@ -1,0 +1,42 @@
+.wrapper {
+  /* background: rgb(224, 224, 224);
+  background: linear-gradient(
+    0deg,
+    rgba(224, 224, 224, 1) 0%,
+    rgba(233, 233, 233, 1) 5%,
+    rgba(255, 255, 255, 1) 98%
+  ); */
+  background-image: url("../assets/Pievoj-1500x1000.jpg");
+  background-position: top;
+  background-repeat: no-repeat;
+  padding: 5px;
+}
+
+.nav-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  color: #383838;
+}
+
+.header {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.logo {
+  background-image: url("../assets/Logotipas_Rusiu-ralis_ed-300x184.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 230px;
+  height: 100px;
+  background-size: contain;
+}
+
+.wrapper .title {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+}

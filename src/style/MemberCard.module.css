@@ -1,0 +1,39 @@
+.member-card {
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+  height: 100px;
+  margin: 5px;
+  justify-content: flex-start;
+  align-items: center;
+
+  background: rgb(224, 224, 224);
+  background: linear-gradient(
+    0deg,
+    rgba(219, 227, 192, 1) 0%,
+    rgba(219, 227, 192, 1) 5%,
+    rgba(255, 255, 255, 1) 98%
+  );
+}
+
+.member-card:hover {
+  cursor: pointer;
+  background: rgb(219, 227, 192);
+}
+
+.member-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-content: flex-start;
+  text-align: left;
+}
+
+.member-name{
+  font-weight: bold;
+}
+
+.member-team{
+  font-size: 12px;
+  color: rgb(168, 168, 168);
+}
